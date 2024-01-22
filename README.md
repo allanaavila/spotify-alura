@@ -1,5 +1,8 @@
 # Projeto de Modelo de Front-end - Curso de Imersão Alura
 
+#ImersãoFrontEnd
+#Alura
+
 ## Descrição
 Este é um projeto desenvolvido durante o curso de Imersão da Alura, inspirado no layout e funcionalidades do Spotify. 
 O objetivo principal é aplicar os conceitos aprendidos no curso, aprimorando as habilidades de desenvolvimento front-end.
