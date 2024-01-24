@@ -92,5 +92,41 @@
     border-radius: 40px;
 }
 
+.header__search:hover {
+    border: 1px solid var(--bg-white-color);
+}
 
+.header__login .subscribe:hover {
+    transform: scale(1.04);
+    color: var(--bg-white-color);
+}
+
+.header__login .login:hover {
+    transform: scale(1.04);
+}
+
+.playlist-container {
+    height: 68vh;
+    padding-top: 16px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: var(--bg-navegation-color);
+}
+
+.playlist {
+    margin: 24px;
+}
+
+.playlist #greeting {
+    color: var(--bg-white-color);
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 48px;
+}
+
+.playlist .session {
+    color: var(--bg-white-color);
+    font-size: 24px;
+    font-weight: 700;
+  }
 
