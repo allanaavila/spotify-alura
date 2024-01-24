@@ -128,5 +128,48 @@
     color: var(--bg-white-color);
     font-size: 24px;
     font-weight: 700;
-  }
+}
+
+.offer__scroll-container {
+    max-height: 43vh;
+    margin: 24px;
+    overflow: auto;
+}
+
+.offer__scroll-container::-webkit-scrollbar {
+    width: 1px;
+}
+
+.offer__scroll-container::-webkit-scrollbar-thumb {
+    background-color: transparent;
+}
+
+.offer__list-item {
+    display: grid;
+    justify-items: center;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    gap: 16px;
+    margin-bottom: 1rem;
+}
+
+.cards {
+    position: relative;
+    width: 220px;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 8px;
+}
+
+.cards span {
+    padding: 16px;
+    position: absolute;
+    color: var(--bg-white-color);
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.card1 {
+    background-color: rgb(0, 100, 80);
+}
+
 

@@ -207,7 +207,9 @@ body {
     flex-shrink: 0;
 }
 
-
+#artistList {
+    display: none;
+}
 
 
 
