@@ -214,7 +214,7 @@
     bottom: 0;
     height: auto;
     width: 107px;
-    transform: rotate(25deg) translate(18%, -2%);
+    transform: rotate(0deg) translate(1%, -10%);
 }
 
 .artist {
