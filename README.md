@@ -11,8 +11,7 @@ O objetivo principal é aplicar os conceitos aprendidos no curso, aprimorando as
 - [X] Revisão: HTML, CSS e JS na prática
 - [X] Estilo Avançado e Posicionamento: Transformando Layouts
 - [X] Layout Flexbox, Pseudo-classes e Responsividade em CSS
-- [ ] CSS Grid, Media Queries e Manipulação do DOM com JavaScript
-- [ ] Frameworks e Eficiência: Introdução ao React a Angular
+- [X] CSS Grid, Media Queries e Manipulação do DOM com JavaScript
 
 ## Tecnologias Utilizadas
 - HTML5
